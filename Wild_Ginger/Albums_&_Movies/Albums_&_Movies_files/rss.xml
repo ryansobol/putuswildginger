@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Wait, Hold Still</title>
+    <link>http://www.summitwynds.com/%7Ewildginger/Wild_Ginger/Albums_%26_Movies/Albums_%26_Movies.html</link>
+    <description>Wait, Hold Still</description>
+    <item>
+      <title>Wild Ginger</title>
+      <link>http://www.summitwynds.com/%7Ewildginger/Wild_Ginger/Albums_%26_Movies/Pages/Wild_Ginger.html</link>
+      <guid isPermaLink="false">7e6ebdd7-a0da-4d3f-b39e-59d89bb7d70f</guid>
+    </item>
+    <item>
+      <title>The Food in Wild Ginger</title>
+      <link>http://www.summitwynds.com/%7Ewildginger/Wild_Ginger/Albums_%26_Movies/Pages/The_Food_in_Wild_Ginger.html</link>
+      <guid isPermaLink="false">d4e98adc-a804-4f20-886e-b5a0ac992abf</guid>
+    </item>
+    <item>
+      <title>Good Times at Wild Ginger</title>
+      <link>http://www.summitwynds.com/%7Ewildginger/Wild_Ginger/Albums_%26_Movies/Pages/Good_Times_at_Wild_Ginger.html</link>
+      <guid isPermaLink="false">8429234c-4224-4216-81e5-9371fe1b439a</guid>
+    </item>
+    <item>
+      <title>Smoked Duck Feast</title>
+      <link>http://www.summitwynds.com/%7Ewildginger/Wild_Ginger/Albums_%26_Movies/Pages/Smoked_Duck_Feast.html</link>
+      <guid isPermaLink="false">e95e164b-0d86-435e-914c-8379f471d584</guid>
+      <iphoto:thumbnail>http://www.summitwynds.com/%7Ewildginger/Wild_Ginger/Albums_%26_Movies/Albums_%26_Movies_files/Smoked_Duck_Feast.jpg</iphoto:thumbnail>
+      <iweb:contents>0:47</iweb:contents>
+      <iweb:is-movie>true</iweb:is-movie>
+    </item>
+  </channel>
+</rss>

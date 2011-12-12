@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:FA958CA3-9A18-4065-BFF0-E5EE7AE92BA5</id>
+ <title>Page list Atom feed</title>
+ <updated>2010-07-10T10:15:10-05:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:076B091E-C8CC-4E22-81BD-447F678AD4C6</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">076B091E-C8CC-4E22-81BD-447F678AD4C6</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2010-07-10T10:15:10.001-05:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:9BB602A9-155D-4013-8B2C-2F58995EEBD6</id>
+  <title>Menu</title>
+  <title xmlns="urn:iweb:">Menu</title>
+  <in-navbar xmlns="urn:iweb:">9BB602A9-155D-4013-8B2C-2F58995EEBD6</in-navbar>
+  <link rel="alternate" href="Menu.html"/>
+  <updated>2010-07-10T10:15:10.002-05:00</updated>
+  <content>Menu</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:8480DC87-D1C3-4A37-8C61-DCE9A6961392</id>
+  <title>Albums &amp; Movies</title>
+  <title xmlns="urn:iweb:">Albums &amp; Movies</title>
+  <in-navbar xmlns="urn:iweb:">8480DC87-D1C3-4A37-8C61-DCE9A6961392</in-navbar>
+  <link rel="alternate" href="Albums_%26_Movies/Albums_%26_Movies.html"/>
+  <updated>2010-07-10T10:15:10.003-05:00</updated>
+  <content>Albums &amp; Movies</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:0468AB42-B1CB-4D51-998D-B7BC6831F712</id>
+  <title>Testimonials</title>
+  <title xmlns="urn:iweb:">Testimonials</title>
+  <in-navbar xmlns="urn:iweb:">0468AB42-B1CB-4D51-998D-B7BC6831F712</in-navbar>
+  <link rel="alternate" href="Testimonials.html"/>
+  <updated>2010-07-10T10:15:10.004-05:00</updated>
+  <content>Testimonials</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:1AF0BDDC-13E9-4E21-9904-58EF26739445</id>
+  <title>Map &amp; Info</title>
+  <title xmlns="urn:iweb:">Map &amp; Info</title>
+  <in-navbar xmlns="urn:iweb:">1AF0BDDC-13E9-4E21-9904-58EF26739445</in-navbar>
+  <link rel="alternate" href="Map_%26_Info.html"/>
+  <updated>2010-07-10T10:15:10.005-05:00</updated>
+  <content>Map &amp; Info</content>
+ </entry>
+</feed>
