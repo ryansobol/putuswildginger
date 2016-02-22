@@ -1,22 +1,7 @@
-Your Mango Application Name
-===========================
+# putuswildginger.com
 
-Summary
--------
+Deploy the website with the following command.
 
-
-
-Getting Started
----------------
-
-
-
-Publishing
-----------
-
-
-
-Credits
--------
-
-
+```shell
+npm run deploy
+```

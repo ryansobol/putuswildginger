@@ -1,0 +1,26 @@
+{
+  "name": "putuswildginger",
+  "version": "0.1.0",
+  "description": "Homepage for Putu's Wild Ginger in Ubud, Bali",
+  "scripts": {
+    "deploy": "surge prod www.putuswildginger.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryansobol/putuswildginger.git"
+  },
+  "keywords": [
+    "putus",
+    "wild",
+    "ginger"
+  ],
+  "author": "Jane Fung <janefungpublic@gmail.com",
+  "contributors": [
+    "Ryan Sobol <contact@ryansobol.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryansobol/putuswildginger/issues"
+  },
+  "homepage": "https://github.com/ryansobol/putuswildginger#readme"
+}
