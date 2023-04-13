@@ -16,11 +16,14 @@
   ],
   "author": "Jane Fung <janefungpublic@gmail.com",
   "contributors": [
-    "Ryan Sobol <contact@ryansobol.com>"
+    "Ryan Sobol <hello@ryansobol.com>"
   ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ryansobol/putuswildginger/issues"
   },
-  "homepage": "https://github.com/ryansobol/putuswildginger#readme"
+  "homepage": "https://github.com/ryansobol/putuswildginger#readme",
+  "devDependencies": {
+    "surge": "^0.23.1"
+  }
 }
